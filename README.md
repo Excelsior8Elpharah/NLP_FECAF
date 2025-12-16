@@ -62,15 +62,25 @@ Validação cruzada e métricas de avaliação
 📁 Estrutura do Projeto
 text
 ├── CÉLULA 1: Instalação e Importações
+
 ├── CÉLULA 2: Sistema de Carga de Dados Avançado
+
 ├── CÉLULA 3: Carregamento dos Dados e Análise Inicial
+
 ├── CÉLULA 4: Pré-processamento de Texto
+
 ├── CÉLULA 5: Vetorização Avançada de Texto
+
 ├── CÉLULA 6: Análise de Sentimentos com Modelos Tradicionais
+
 ├── CÉLULA 7: Visualizações Avançadas e Análise de Padrões
+
 ├── CÉLULA 8: WordCloud e Análise de Palavras por Sentimento
+
 ├── CÉLULA 9: Dashboard Interativo e Relatório Executivo
+
 └── CÉLULA 10: Exportação de Resultados e Finalização
+
 📊 Métricas e Resultados
 O sistema alcançou os seguintes resultados com um dataset de 200 feedbacks:
 
